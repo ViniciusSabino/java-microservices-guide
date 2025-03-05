@@ -1,4 +1,4 @@
-## Java Microservices guide
+## Java Microservices Guide
 
 Este guia tem como objetivo servir como uma referência essencial para o desenvolvimento de microsserviços em Java, destacando pontos críticos a serem analisados em cada novo projeto. Ele será atualizado continuamente para refletir as melhores práticas e evoluções na área. O conteúdo abrange pilares fundamentais que podem ser aplicados conforme a necessidade, garantindo que cada microsserviço opere de maneira eficiente e alinhada ao seu propósito.
 
